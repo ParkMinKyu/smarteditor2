@@ -1,0 +1,1 @@
+insert into bug(id,parent_id,menu_name,content,writer,reg_date,modify_date) values(0,0,'인천공항 메인','','',NOW(),NOW());
